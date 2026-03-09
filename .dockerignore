@@ -1,0 +1,14 @@
+.git
+.gitignore
+.DS_Store
+README.md
+LICENSE
+docs/
+templates/
+config.env
+config.env.example
+configure.sh
+docker-build.sh
+output/
+openwrt/_build/
+*.img.gz

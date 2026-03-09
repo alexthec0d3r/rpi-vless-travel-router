@@ -1,0 +1,16 @@
+# Generated files (contain secrets from config.env)
+openwrt/files/etc/config/passwall
+openwrt/files/etc/uci-defaults/99-travel-router
+
+# User config (contains secrets)
+config.env
+
+# Build artifacts
+openwrt/_build/
+output/
+*.img.gz
+build.log
+
+# OS
+.DS_Store
+Thumbs.db
